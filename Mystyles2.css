@@ -1,0 +1,54 @@
+footer{
+    background-color: #cc18ccda;
+    color: #fff;
+    text-align:center;
+    margin-top: 40;
+    padding: 5px 0;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.class{
+    background-color: antiquewhite;
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+.boot{
+    background-color: aliceblue;
+    background-image: url("https://images.pexels.com/photos/616401/pexels-photo-616401.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-size: cover;
+}
+.index{
+    background-image: url("home.jpg");
+    background-size: cover;
+}
+.main{
+    background-image: url("contact.jpg");
+    background-size: cover;
+}
+.about{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-cartoon-restaurant-chef-recruitment-design-poster-vector-background-image_159612.jpg");
+    background-size: cover;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+    text-align: center;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    
+}
+nav ul li a:hover{
+    text-decoration: underline;
+
+}
+.home{
+    color: pink;
+}
+.bat{
+    color: black;
+}
